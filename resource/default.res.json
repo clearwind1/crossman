@@ -1,0 +1,79 @@
+{
+	"groups": [
+		{
+			"keys": "loadingbar_png",
+			"name": "preloading"
+		},
+		{
+			"keys": "startgamebg_jpg,startgamebtn_png,spearrun1_png,spearrun2_png,spearrun3_png,spearrun4_png,spearrun5_png,spearrun6_png,spearrun7_png,spearrun8_png,clound_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "loadingbar_png",
+			"type": "image",
+			"url": "assets/loadingbar.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "startgamebg_jpg",
+			"type": "image",
+			"url": "assets/startgamebg.jpg"
+		},
+		{
+			"name": "startgamebtn_png",
+			"type": "image",
+			"url": "assets/startgamebtn.png"
+		},
+		{
+			"name": "spearrun1_png",
+			"type": "image",
+			"url": "assets/man/spearrun1.png"
+		},
+		{
+			"name": "spearrun2_png",
+			"type": "image",
+			"url": "assets/man/spearrun2.png"
+		},
+		{
+			"name": "spearrun3_png",
+			"type": "image",
+			"url": "assets/man/spearrun3.png"
+		},
+		{
+			"name": "spearrun4_png",
+			"type": "image",
+			"url": "assets/man/spearrun4.png"
+		},
+		{
+			"name": "spearrun5_png",
+			"type": "image",
+			"url": "assets/man/spearrun5.png"
+		},
+		{
+			"name": "spearrun6_png",
+			"type": "image",
+			"url": "assets/man/spearrun6.png"
+		},
+		{
+			"name": "spearrun7_png",
+			"type": "image",
+			"url": "assets/man/spearrun7.png"
+		},
+		{
+			"name": "spearrun8_png",
+			"type": "image",
+			"url": "assets/man/spearrun8.png"
+		},
+		{
+			"name": "clound_png",
+			"type": "image",
+			"url": "assets/clound.png"
+		}
+	]
+}
